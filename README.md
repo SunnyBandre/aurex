@@ -12,7 +12,7 @@ Aurex is a full-stack E-Commerce project developed with Next.js 14, featuring a 
 
 #### 🔗 Live Version:
 
-⤴️
+https://aurex-nine.vercel.app/ ⤴️
 
 ---
 
